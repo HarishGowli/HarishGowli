@@ -1,5 +1,5 @@
 <h1 align="center">
- # 🌟 Hi, I'm Harish Gowli 🌟
+  🌟 Hi, I'm Harish Gowli 🌟
 </h1>
 
 <div align="center">
