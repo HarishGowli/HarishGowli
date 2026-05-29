@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harish Gowli</h1>
 <h3 align="center">A passionate full stack developer from India 🚀</h3>
 
+<p>🌱 I’m currently diving deeper into **Advanced MERN concepts** and exploring **Generative AI**. 👨‍💻 I love building full-stack projects from scratch and experimenting with new technologies. 💡 My learning style is simple — I believe in typing out code myself and solving problems logically rather than copy-pasting. 🎯 My goal is to become a strong problem solver while mastering the MERN stack and contributing to open-source projects.</p>p
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishgowli&label=Profile%20views&color=0e75b6&style=flat" alt="harishgowli" /> </p>
 
 <h3 align="left">Connect with me:</h3>
