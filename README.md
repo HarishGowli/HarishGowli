@@ -14,7 +14,7 @@
 
 ## 🚀 Profile Overview
 
-🎓 IT Final Year Student passionate about building modern web applications and exploring emerging technologies.
+🎓 IT Engineer passionate about building modern web applications and exploring emerging technologies.
 
 💻 Interested in:
 - Full Stack Development
