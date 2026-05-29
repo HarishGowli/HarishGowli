@@ -40,9 +40,7 @@
 
 ## 🌐 Portfolio
 
-🔗 **Portfolio:**  
-https://harishgowli.vercel.app
-
+[My Portfolio](https://harishgowli.vercel.app)
 ---
 
 ## 📫 Connect With Me
