@@ -1,6 +1,6 @@
-<div align="center">
+<h1 align="center">
  # 🌟 Hi, I'm Harish Gowli 🌟
-</div>
+</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=IT+Final+Year+Student;Full+Stack+Developer;MERN+Stack+Enthusiast;UI%2FUX+Designer;Exploring+Generative+AI" alt="Typing SVG" />
