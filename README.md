@@ -5,7 +5,7 @@
 <h4>IT Engineering student passionate about Full Stack Development, GenAI, focused on creating clean and responsive user experiences.</h4>
 <h4>Seeking internships / entry-level roles where I can learn, grow, and contribute to meaningful real-world projects.</h4>
 
-<h2>🌐 Portfolio ➜ harishgowli.vercel.app</h2>h2
+<h2>🌐 Portfolio ➜ [harishgowli.vercel.app](https://harishgowli.vercel.app)</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
