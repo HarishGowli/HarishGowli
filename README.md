@@ -2,8 +2,8 @@
 <h3 align="center">A passionate full stack developer from India 🚀</h3>
 
 <h2>📌 Profile Overview</h2>
-<h3>IT Engineering student passionate about Full Stack Development, UI/UX, and AI/ML, focused on creating clean and responsive user experiences.</h3>
-<h3>Seeking internships / entry-level roles where I can learn, grow, and contribute to meaningful real-world projects.</h3>
+<h4>IT Engineering student passionate about Full Stack Development, UI/UX, and AI/ML, focused on creating clean and responsive user experiences.</h4>
+<h4>Seeking internships / entry-level roles where I can learn, grow, and contribute to meaningful real-world projects.</h4>
 
 <h2>🌐 Portfolio ➜ harishgowli.vercel.app</h2>h2
 
