@@ -54,10 +54,6 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/HarishGowli">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
 <a href="https://www.instagram.com/call_me_harishu__/">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
